@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView_CardView_Demo_App</string>
+    <string name="clicked_at_studio">Clicked at Studio</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
