@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String s=editTextAdd.getText().toString();
                 if (TextUtils.isEmpty(s))
-                    editTextAdd.setError("Enter any value!!");
+                    editTextAdd.setError("Enter any value!");
                 else {
                     int position = Integer.parseInt(editTextAdd.getText().toString());
                     addCard(position);
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String s=editTextDelete.getText().toString();
                 if (TextUtils.isEmpty(s))
-                    editTextDelete.setError("Enter any value!!");
+                    editTextDelete.setError("Enter any value!");
                 else {
                     int position = Integer.parseInt(editTextDelete.getText().toString());
                     deleteCard(position);
