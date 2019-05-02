@@ -4,4 +4,6 @@
     <string name="like">Like</string>
     <string name="share">Share</string>
     <string name="subscribe">Subscribe</string>
+    <string name="insert">Insert</string>
+    <string name="remove">Remove</string>
 </resources>
